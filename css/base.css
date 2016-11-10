@@ -8,6 +8,10 @@ h6 {
     font-weight: 700;
 }
 
+p {
+  text-indent: 2em; 
+}
+
 header {
   background-color: #f8f8f8;
 }
